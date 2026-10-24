@@ -16,7 +16,19 @@ This repository documents my SQL learning journey, from fundamental SQL concepts
 
 * **SQL:** MySQL
 * **Database Tool:** MySQL Workbench
-* **Practice Platform:** HackerRank
+
+## 🗄️ Databases Used
+
+This repository includes SQL practice and exercises using the following databases:
+
+| Database                      | Description                           |
+| ----------------------------- | ------------------------------------- |
+| **AtliQ Hardware (`gdb0041`)** | Sales and business data analysis      |
+| **FoodDB (`fooddb`)**         | SQL practice using food-related data  |
+| **MoviesDB (`moviesdb`)**     | SQL practice using movie-related data |
+
+**Note:** I used gdb0041 for AtliQ Hardware, which is the database name commonly used in the Codebasics SQL project.
+
 
 ## 📚 Topics Covered
 
